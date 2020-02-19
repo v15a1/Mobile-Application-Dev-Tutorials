@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Calendar</string>
+    <string name="article_subtitle">History</string>
+    <string name="article_text">The course of the sun and the moon are the most salient natural, regularly recurring events useful for timekeeping, thus in pre-modern societies worldwide lunation and the year were most commonly used as time units. Nevertheless, the <b>Roman calendar</b> contained remnants of a very ancient pre-Etruscan 10-month solar year.[2] The first recorded physical calendars, dependent on the development of writing in the Ancient Near East, are the Bronze Age Egyptian and Sumerian calendars.[3] www.rockument.com\n
+
+\nA large number of Ancient Near East calendar systems based on the Babylonian calendar date from the Iron Age, among them the calendar system of the Persian Empire, which in turn gave rise to the Zoroastrian calendar and the Hebrew calendar.[4]
+
+A great number of Hellenic calendars developed in Classical Greece, and in the Hellenistic period gave rise to both the ancient Roman calendar and to various Hindu calendars.[5]
+
+Calendars in antiquity were lunisolar, depending on the introduction of intercalary months to align the solar and the lunar years. This was mostly based on observation, but there may have been early attempts to model the pattern of intercalation algorithmically, as evidenced in the fragmentary 2nd-century Coligny calendar.
+
+The Roman calendar was reformed by Julius Caesar in 46 BC.[6]. The Julian calendar was no longer dependent on the observation of the new moon but simply followed an algorithm of introducing a leap day every four years. This created a dissociation of the calendar month from the lunation.
+
+The Islamic calendar is based on the prohibition of intercalation (nasi) by Muhammad, in Islamic tradition dated to a sermon held on 9 Dhu al-Hijjah AH 10 (Julian date: 6 March 632). This resulted in an observation-based lunar calendar that shifts relative to the seasons of the solar year.</string>
+    <string name="add_comment">Add Comment</string>
+</resources>
