@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityIntents</string>
+    <string name="button_main">Send</string>
+    <string name="recieved_msg">Message Recieved</string>
+</resources>
