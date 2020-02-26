@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Counter app Tutorial 2</string>
-    <string name="count_button">Count</string>
-    <string name="count">0</string>
-    <string name="toast_message_button">toast</string>
-</resources>
