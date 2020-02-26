@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
     public void launchSecondActivity(View view) {
         Log.d(LOG_TAG, "Main Button pressed");
         String mainMessage = mMessageEditText.getText().toString();
+        //starting an activity and awaiting the response
         startActivityForResult(new Intent(MainActivity.this, SecondActivity.class).putExtra(EXTRA_MESSAGE, mainMessage), TEXT_REQUEST);
 
     }
