@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InitialActivity">
+
+    <ListView
+        android:id="@+id/empployee_listview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/add_employee_btn"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/add_employee_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="add an employee"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <Button
+        android:id="@+id/update_employee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="update employee"
+        app:layout_constraintBottom_toBottomOf="@+id/empployee_listview" />
+
+    <Button
+        android:id="@+id/delete_employee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete employee"
+        app:layout_constraintBottom_toTopOf="@+id/update_employee" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

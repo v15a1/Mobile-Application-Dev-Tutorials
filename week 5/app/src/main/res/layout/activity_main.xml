@@ -73,7 +73,6 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent">
-
         <Button
             android:id="@+id/submit_button"
             android:layout_width="match_parent"
@@ -86,6 +85,7 @@
             android:layout_height="50dp"
             android:text="Display all"
             tools:layout_editor_absoluteY="682dp" />
+
     </LinearLayout>
 
 
